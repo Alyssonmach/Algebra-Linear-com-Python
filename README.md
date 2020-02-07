@@ -1,4 +1,3 @@
-Em construção
 # Algebra-Linear-com-Python
 **_Aplicações dos tópicos aprendidos na disciplina Álgebra Linear usando a linguagem de progamação Python._**
 
@@ -91,15 +90,51 @@ células de código, como foi dito acima, obedecem a idea da progamação sequen
  Para quem optou usar o Google Colab Notebook, pode seguir as seguintes instruções para executar um notebook em um servidor pelo
  Google Browser.
  
- 1. Logo de início, aparecerá uma janela com diversas opções, nela você pode fazer os seguintes passos:
-  - Na aba "Examples", temos uma série de progamas .ipynb fornecidos pelo Google para familizarizar o usuário com o aplicativo;
-  - Na aba "Recent", é possível ver os progamas .ipynb acessados recentemente;
-  - Na aba "Google Drive", você verá todos os seus progamas criados
+1. Logo de início, aparecerá uma janela com diversas opções, nela você pode fazer os seguintes passos:
+ - Na aba "Examples", temos uma série de progamas .ipynb fornecidos pelo Google para familizarizar o usuário com o aplicativo;
+ - Na aba "Recent", é possível ver os progamas .ipynb acessados recentemente;
+ - Na aba "Google Drive", você verá todos os seus progamas criados
   > Todos os progamas criados no Google Colab Notebook são salvo no Google Drive vinculado a conta do usuário.
-  - Na aba "Git Hub", pode-se copiar a URL do repositório que tem uma extensão .ipynb e usá-lo para abrir o progama do Git Hub no 
-    Google Colab Notebook de forma direta.
-    > **PARA USUÁRIOS DO GOOGLE COLAB NOTEBOOK, ESSA SERÁ A FORMA DE ACESSAR OS PROGAMAS DO NOSSO REPOSITÓRIO**
-  - Na aba é "Upload" você pode adicionar um progama .ipynb do seu computador diretamente no Google Colab Notebook.
- 2. Na opção "New Python3 Notebook" você conseguirá criar um novo notebook.
-  - Na
+ - Na aba "Git Hub", pode-se copiar a URL do repositório que tem uma extensão .ipynb e usá-lo para abrir o progama do Git Hub no 
+   Google Colab Notebook de forma direta.
+   > **PARA USUÁRIOS DO GOOGLE COLAB NOTEBOOK, ESSA SERÁ A FORMA DE ACESSAR OS PROGAMAS DO NOSSO REPOSITÓRIO**
+ - Na aba é "Upload" você pode adicionar um progama .ipynb do seu computador diretamente no Google Colab Notebook.
+2. Na opção "New Python3 Notebook" você conseguirá criar um novo notebook. Vamos agora aprender os comandos para prosseguir com essa
+criação.
+ - Na opção "+Code", você pode adicionar uma célula de código;
+ - Na opção "+Text", você pode adicionar uma célula de texto;
+ - Clicando em "file": salva o seu progama(Ctrl + S);
+ - Ícone de lixeira: exclui alguma célula selecionada do seu progama;
+ - Nos três pontos para ter acesso a mais opções na célula, você pode achar a opção "Copy cell", para copiar a célula;
+ - Ao lado de cada célula, há uma opção para compilar ela, assim pode-se executar as células de código;
+ - Clicando na opção "runtime", você pode achar a opção "Run all", para compilar todas as células do progama;
  
+ #### Baixando Arquivos do GitHub
+ 
+ ###### Baixar pelo própio GitHub
+ 
+1. Primeiramente, clique no arquivo que você deseja baixar no GitHub.
+2. Após clicar no arquivo desejado com extensão .ipynb, você conseguirá ver o arquivo, mas não poderá interagir com ele.
+3. Clique na opção Raw e, após isso, clique em Ctrl + S para salvar o arquivo em seu computador.
+4. Repare que o tipo do arquivo está como um documento de texto, você deve modificar essa opção para "Todo tipo de arquivo" e modificar também o nome do documento. A extensão .ipynb deve ser mantida.
+5. O nome do documento deve terminar com .ipynb, respeitando as regras ao colocar o nome no arquivo, para que ele compile.
+6. Abra o seu Jupyter Notebook ou Google Colab Notebook
+7. Faça o upload do arquivo e pronto, você terá um arquivo .ipynb na qual você pode interagir, editar, remover ou adicionar células.
+
+###### Usando o nbviewer
+
+O própio Jupyter Project fornece uma ferramenta para que o usuário consiga baixar e visualizar arquivos .ipynb a partir do GitHub.
+Segue o link do site para acessar o nbviewer.
+
+- [nbviewer](https://nbviewer.jupyter.org/)
+
+1. Insira o link do progama disponível do repositório e clique em pesquisar.
+2. Clique em "Download Notebook" para baixar o arquivo na sua máquina.
+
+#### Usando o binder para compilar os progamas
+
+Uma opção terciária para executar os progamas .ipynb é usando o binder, do própio nbviewer. Veja os passos abaixo:
+
+1. Insira o link do progama disponível do repositório e clique em pesquisar;
+2. Clique na opção "Execute on Binder";
+3. Abrirá no browser um aplicativo Jupyter Notebook;
