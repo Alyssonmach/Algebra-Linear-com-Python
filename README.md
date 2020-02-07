@@ -1,4 +1,4 @@
-# Algebra-Linear-com-Python
+# Álgebra Linear com Python
 **_Aplicações dos tópicos aprendidos na disciplina Álgebra Linear usando a linguagem de progamação Python._**
 
 #### Começando
