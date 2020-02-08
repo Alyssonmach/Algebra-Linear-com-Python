@@ -143,3 +143,9 @@ Uma opção terciária para executar os progamas .ipynb é usando o binder, do p
 1. Insira o link do progama disponível do repositório e clique em pesquisar.
 2. Clique na opção "Execute on Binder".
 3. Abrirá no browser um aplicativo Jupyter Notebook.
+
+#### Caso ainda haja dúvidas
+
+|**_Entre em contato com o meu e-mail_**|
+|---------------------------------------|
+|alyssonmachado388@gmail.com            |
