@@ -55,8 +55,10 @@ texto(Markdown). As células de texto elas são independentes entre sí em um vi
 interferir nas células de código. Sobre o víes do aluno, é interessante para o seu entendimento que a leitura das mesmas seja feito
 sequencialmente, dado que algumas células desenvolvidas anteriormente ajudam no entendimentos das desenvolvidas posteriormente. As
 células de código, como foi dito acima, obedecem a idea da progamação sequencial. Desse modo, é fundamental que:
+
  > **TODAS AS CÉLULAS SEJAM EXECUTADAS, DO INÍCIO AO FIM, DADO QUE AS CÉLULAS POSTERIORES SÃO DEPENDENTES DAS CÉLULAS ANTERIORES**
- Caso contrário, erros de compilação surgirão, interrompendo o funcionamento do progama.
+ 
+Caso contrário, erros de compilação surgirão, interrompendo o funcionamento do progama.
  
  ###### Abrindo um notebook
  
@@ -66,10 +68,14 @@ células de código, como foi dito acima, obedecem a idea da progamação sequen
  1. Abra o prompt de comando.
  2. Digite **_jupyter notebook_** caso tenha optado pelo métod de instalação **_pip install jupyter_** ou digite **_jupyter lab_** 
  caso tenha optado pela opção de intalação **_pip install jupyter lab_**.
- > **Jupyter Notebook tem o mesmo funcionamento do Jupyter Lab, a única diferença é que o segundo é uma versão do aplicativo mais recente que o primeiro.**
+ 
+ > **Jupyter Notebook tem o mesmo funcionamento do Jupyter Lab, a única diferença é que o segundo é uma versão do aplicativo mais           recente que o primeiro.**
+ 
  3. Após ter feito isso, será criado no seu prompt de comando uma espécie de servidor local e o aplicativo será aberto em seu browser
  padrão.
- > **NÃO FECHE O SEU PROMPT DE COMANDO ENQUANTO ESTIVER USANDO O JUPYTER NOTEBOOK OU JUPYTER LAB, CASO CONTRÁRIO, O KERNEL DO APLICATIVO    SERÁ ENCERRADO JUNTO.**
+ 
+ > **NÃO FECHE O SEU PROMPT DE COMANDO ENQUANTO ESTIVER USANDO O JUPYTER NOTEBOOK OU JUPYTER LAB, CASO CONTRÁRIO, O KERNEL DO   A          APLICATIVO    SERÁ ENCERRADO JUNTO.**
+ 
  4. Caso você queira criar um novo notebook, clique na opção "New Launcher". Dentro do progama:
   - Ícone do disquete("Save the notebook contents and create checkpoint"): salva o seu progama(Ctrl + S);
   - Ícone de +("Insert a cell below"): Insere uma célula no seu notebook;
@@ -94,7 +100,9 @@ células de código, como foi dito acima, obedecem a idea da progamação sequen
   > **Todos os progamas criados no Google Colab Notebook são salvo no Google Drive e vinculado a conta do usuário.**
  - Na aba "GitHub", pode-se copiar a URL do repositório que tem uma extensão .ipynb e usá-lo para abrir o progama do GitHub no 
    Google Colab Notebook de forma direta;
-   > **PARA USUÁRIOS DO GOOGLE COLAB NOTEBOOK, ESSA SERÁ A FORMA DE ACESSAR OS PROGAMAS DO NOSSO REPOSITÓRIO**
+   
+ > **PARA USUÁRIOS DO GOOGLE COLAB NOTEBOOK, ESSA SERÁ A FORMA DE ACESSAR OS PROGAMAS DO NOSSO REPOSITÓRIO**
+   
  - Na aba "Upload" você pode adicionar um progama .ipynb do seu computador diretamente no Google Colab Notebook.
 2. Na opção "New Python3 Notebook" você conseguirá criar um novo notebook. Vamos agora aprender os comandos para prosseguir com essa
 criação.
