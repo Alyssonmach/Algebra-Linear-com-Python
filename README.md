@@ -141,7 +141,7 @@ Segue o link do site para acessar o nbviewer.
 
 Uma opção terciária para executar os progamas .ipynb é usando o binder, do própio nbviewer. Veja os passos abaixo:
 
-1. Insira o link do progama disponível do repositório e clique em pesquisar.
+1. Insira o link do progama disponível no repositório e clique em pesquisar.
 2. Clique na opção "Execute on Binder".
 3. Abrirá no browser um aplicativo Jupyter Notebook.
 
