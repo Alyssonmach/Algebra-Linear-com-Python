@@ -6,7 +6,7 @@ Essas instruções tem a finalidade de mostrar-lhes como baixar e usar os códig
 editar para diversas finalidades.
 
 #### Pré-requisitos
-É interessante que o usuário tenho instalado todo o ambiente de trabalho Python em sua máquina. Caso não seja viável a instalação, não se preocupe. Há outras formas pela qual é possível acessar os progamas do repositório. Vamos apresentar o Google Colab Notebook mais adiante e, através dele, aprenderá como é possível usá-lo para baixar o progama e executá-lo através do seu navegador Google Chrome.
+É interessante que o usuário tenho instalado todo o ambiente de trabalho Python em sua máquina. Caso não seja viável a instalação, não se preocupe. Há outras formas pela qual é possível acessar os progamas do repositório. Vamos apresentar o Google Colab Notebook mais adiante e, através dele, você aprenderá como é possível usá-lo para baixar o progama e executá-lo através do seu navegador Google Chrome.
 
 #### Instalando
 
