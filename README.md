@@ -28,6 +28,9 @@ para importar todas as bibliotecas usadas nos progamas do repositório:
 7. **_pip install ipywidgets_**
 
 Após importar todas as bibliotecas acima você terá todo os requisitos necessários para compilar os progamas apresentados no repositório.
+Verifique no progama abaixo se todos as bibliotecas foram devidamente importadas:
+ 
+ -[Verifique a Instalação](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/VerifiqueInstalacao.ipynb)
 
 ###### Usando o Google Colab Notebook
 
