@@ -80,16 +80,16 @@ Caso contrário, erros de compilação surgirão, interrompendo o funcionamento 
  > **NÃO FECHE O SEU PROMPT DE COMANDO ENQUANTO ESTIVER USANDO O JUPYTER NOTEBOOK OU JUPYTER LAB, CASO CONTRÁRIO, O KERNEL DO          APLICATIVO SERÁ ENCERRADO JUNTO.**
  
  4. Caso você queira criar um novo notebook, clique na opção "New Launcher". Dentro do progama:
-  -[x] Ícone do disquete("Save the notebook contents and create checkpoint"): salva o seu progama;
-  -[x] Ícone de +("Insert a cell below"): Insere uma célula no seu notebook;
-  -[x] Ícone de tessoura("Cut the selected cells"): corta alguma célula selecionada do seu progama;
-  -[x] Ícone de copiar("Copy the selected cells"): cópia uma célula do seu progama;
-  -[x] Ícone da prancheta("Paste cells from the clipboard"): cola a célula copiada;
-  -[x] Ícone de dar play("Run the selected cells and advance"): compila a célula selecionada;
-  -[x] Ícone de parar("Interrupt the Kernel"): Interrompe a compilação da célula em processo;
-  -[x] Ícone de reiniciar("Restart the Kernel"): Reinicia a compilação da célula em processo;
-  -[x] Opção Markdown: Transforma a célula selecionada em uma célula de texto;
-  -[x] Opção Code: Transforma a célula selecionada em uma célula de código;
+  - [x] Ícone do disquete("Save the notebook contents and create checkpoint"): salva o seu progama;
+  - [x] Ícone de +("Insert a cell below"): Insere uma célula no seu notebook;
+  - [x] Ícone de tessoura("Cut the selected cells"): corta alguma célula selecionada do seu progama;
+  - [x] Ícone de copiar("Copy the selected cells"): cópia uma célula do seu progama;
+  - [x] Ícone da prancheta("Paste cells from the clipboard"): cola a célula copiada;
+  - [x] Ícone de dar play("Run the selected cells and advance"): compila a célula selecionada;
+  - [x] Ícone de parar("Interrupt the Kernel"): Interrompe a compilação da célula em processo;
+  - [x] Ícone de reiniciar("Restart the Kernel"): Reinicia a compilação da célula em processo;
+  - [x] Opção Markdown: Transforma a célula selecionada em uma célula de texto;
+  - [x] Opção Code: Transforma a célula selecionada em uma célula de código;
  5. Caso você queira criar uma pasta, clique na opção "New folder".
  6. Caso você queira adicionar um novo arquivo .ipynb do seu computador, clique na opção "Upload Files".
  
