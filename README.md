@@ -12,7 +12,7 @@ editar para diversas finalidades.
 
 ###### Baixando o ambiente de trabalho Python em sua máquina.
 
-Veja o vídeo abaixo para instalar devidamente o Python em sua máquina(disponível para Windows, Linux e Mac).
+Veja o vídeo abaixo para instalar devidamente o Python em sua máquina (disponível para Windows, Linux e MacOS).
 
 - [Instalando o Python3 e o IDLE](https://www.youtube.com/watch?v=VuKvR1J2LQE)
 
@@ -27,7 +27,7 @@ para importar todas as bibliotecas usadas nos progamas do repositório:
 6. **_pip install imageio_**
 7. **_pip install ipywidgets_**
 
-Após importar todas as bibliotecas acima você terá todo os requisitos necessários para compilar os progamas apresentados no repositório.
+Após importar todas as bibliotecas acima você terá todos os requisitos necessários para compilar os progamas apresentados no repositório.
 Verifique no progama abaixo se todos as bibliotecas foram devidamente importadas:
  
  -[Verifique a Instalação](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/VerifiqueInstalacao.ipynb)
@@ -53,11 +53,11 @@ Python, dado que é uma linguagem com aplas funcionalidades para diversas áreas
 ###### Como usar os notebooks
 
 Os arquivos com extensão .ipynb são chamados de notebooks. Um notebook é composto por células, essas que obedecem as normas vigentes de
-boa prática de progamação: a ideia da progamação sequencial. Uma célula pode ser de dois tipos: célula de código(Code) ou célula de 
-texto(Markdown). As células de texto elas são independentes entre sí em um viés computacional, pois a execução da mesma não vai 
+boa prática de progamação: a ideia da progamação sequencial. Uma célula pode ser de dois tipos: célula de código (Code) ou célula de 
+texto (Markdown). As células de texto elas são independentes entre sí em um viés computacional, pois a execução da mesma não vai 
 interferir nas células de código. Sobre o víes do aluno, é interessante para o seu entendimento que a leitura das mesmas seja feito
 sequencialmente, dado que algumas células desenvolvidas anteriormente ajudam no entendimentos das desenvolvidas posteriormente. As
-células de código, como foi dito acima, obedecem a idea da progamação sequencial. Desse modo, é fundamental que:
+células de código, como foi dito acima, obedecem a ideia da progamação sequencial. Desse modo, é fundamental que:
 
  > **TODAS AS CÉLULAS SEJAM EXECUTADAS, DO INÍCIO AO FIM, DADO QUE AS CÉLULAS POSTERIORES SÃO DEPENDENTES DAS CÉLULAS ANTERIORES**
  
@@ -69,7 +69,7 @@ Caso contrário, erros de compilação surgirão, interrompendo o funcionamento 
  notebook em sua máquina:
  
  1. Abra o prompt de comando.
- 2. Digite **_jupyter notebook_** caso tenha optado pelo métod de instalação **_pip install jupyter_** ou digite **_jupyter lab_** 
+ 2. Digite **_jupyter notebook_** caso tenha optado pelo método de instalação **_pip install jupyter_** ou digite **_jupyter lab_** 
  caso tenha optado pela opção de intalação **_pip install jupyter lab_**.
  
  > **Jupyter Notebook tem o mesmo funcionamento do Jupyter Lab, a única diferença é que o segundo é uma versão do aplicativo mais           recente que o primeiro.**
@@ -77,19 +77,19 @@ Caso contrário, erros de compilação surgirão, interrompendo o funcionamento 
  3. Após ter feito isso, será criado no seu prompt de comando uma espécie de servidor local e o aplicativo será aberto em seu browser
  padrão.
  
- > **NÃO FECHE O SEU PROMPT DE COMANDO ENQUANTO ESTIVER USANDO O JUPYTER NOTEBOOK OU JUPYTER LAB, CASO CONTRÁRIO, O KERNEL DO   A          APLICATIVO    SERÁ ENCERRADO JUNTO.**
+ > **NÃO FECHE O SEU PROMPT DE COMANDO ENQUANTO ESTIVER USANDO O JUPYTER NOTEBOOK OU JUPYTER LAB, CASO CONTRÁRIO, O KERNEL DO          APLICATIVO SERÁ ENCERRADO JUNTO.**
  
  4. Caso você queira criar um novo notebook, clique na opção "New Launcher". Dentro do progama:
-  - Ícone do disquete("Save the notebook contents and create checkpoint"): salva o seu progama(Ctrl + S);
-  - Ícone de +("Insert a cell below"): Insere uma célula no seu notebook;
-  - Ícone de tessoura("Cut the selected cells"): corta alguma célula selecionada do seu progama;
-  - Ícone de copiar("Copy the selected cells"): cópia uma célula do seu progama;
-  - Ícone da prancheta("Paste cells from the clipboard"): cola a célula copiada;
-  - Ícone de dar play("Run the selected cells and advance"): compila a célula selecionada;
-  - Ícone de parar("Interrupt the Kernel"): Interrompe a compilação da célula em processo;
-  - Ícone de reiniciar("Restart the Kernel"): Reinicia a compilação da célula em processo;
-  - Opção Markdown: Transforma a célula selecionada em uma célula de texto;
-  - Opção Code: Transforma a célula selecionada em uma célula de código;
+  -[x] Ícone do disquete("Save the notebook contents and create checkpoint"): salva o seu progama;
+  -[x] Ícone de +("Insert a cell below"): Insere uma célula no seu notebook;
+  -[x] Ícone de tessoura("Cut the selected cells"): corta alguma célula selecionada do seu progama;
+  -[x] Ícone de copiar("Copy the selected cells"): cópia uma célula do seu progama;
+  -[x] Ícone da prancheta("Paste cells from the clipboard"): cola a célula copiada;
+  -[x] Ícone de dar play("Run the selected cells and advance"): compila a célula selecionada;
+  -[x] Ícone de parar("Interrupt the Kernel"): Interrompe a compilação da célula em processo;
+  -[x] Ícone de reiniciar("Restart the Kernel"): Reinicia a compilação da célula em processo;
+  -[x] Opção Markdown: Transforma a célula selecionada em uma célula de texto;
+  -[x] Opção Code: Transforma a célula selecionada em uma célula de código;
  5. Caso você queira criar uma pasta, clique na opção "New folder".
  6. Caso você queira adicionar um novo arquivo .ipynb do seu computador, clique na opção "Upload Files".
  
@@ -97,25 +97,23 @@ Caso contrário, erros de compilação surgirão, interrompendo o funcionamento 
  Google Browser.
  
 1. Logo de início, aparecerá uma janela com diversas opções, nela você pode fazer os seguintes passos:
- - Na aba "Examples", temos uma série de progamas .ipynb fornecidos pelo Google para familizarizar o usuário com o aplicativo;
- - Na aba "Recent", é possível ver os progamas .ipynb acessados recentemente;
- - Na aba "Google Drive", você verá todos os seus progamas criados;
-  > **Todos os progamas criados no Google Colab Notebook são salvo no Google Drive e vinculado a conta do usuário.**
- - Na aba "GitHub", pode-se copiar a URL do repositório que tem uma extensão .ipynb e usá-lo para abrir o progama do GitHub no 
+ -[x] Na aba "Examples", temos uma série de progamas .ipynb fornecidos pelo Google para familizarizar o usuário com o aplicativo;
+ -[x] Na aba "Recent", é possível ver os progamas .ipynb acessados recentemente;
+ -[x] Na aba "Google Drive", você verá todos os seus progamas criados;
+  > **Todos os progamas criados no Google Colab Notebook são salvos no Google Drive e vinculado a conta do usuário.**
+ -[x] Na aba "GitHub", pode-se copiar a URL do repositório que tem uma extensão .ipynb e usá-lo para abrir o progama do GitHub no 
    Google Colab Notebook de forma direta;
-   
- > **PARA USUÁRIOS DO GOOGLE COLAB NOTEBOOK, ESSA SERÁ A FORMA DE ACESSAR OS PROGAMAS DO NOSSO REPOSITÓRIO**
-   
- - Na aba "Upload" você pode adicionar um progama .ipynb do seu computador diretamente no Google Colab Notebook.
+  > **PARA USUÁRIOS DO GOOGLE COLAB NOTEBOOK, ESSA SERÁ A FORMA DE ACESSAR OS PROGAMAS DO NOSSO REPOSITÓRIO**
+ -[x] Na aba "Upload" você pode adicionar um progama .ipynb do seu computador diretamente no Google Colab Notebook.
 2. Na opção "New Python3 Notebook" você conseguirá criar um novo notebook. Vamos agora aprender os comandos para prosseguir com essa
 criação.
- - Na opção "+Code", você pode adicionar uma célula de código;
- - Na opção "+Text", você pode adicionar uma célula de texto;
- - Clicando em "file": salva o seu progama(Ctrl + S);
- - Ícone de lixeira: exclui alguma célula selecionada do seu progama;
- - Nos três pontos para ter acesso a mais opções na célula, você pode achar a opção "Copy cell", para copiar a célula;
- - Ao lado de cada célula, há uma opção para compilar ela, assim pode-se executar as células de código;
- - Clicando na opção "runtime", você pode achar a opção "Run all", para compilar todas as células do progama de uma vez só;
+ -[x] Na opção "+ Code", você pode adicionar uma célula de código;
+ -[x] Na opção "+ Text", você pode adicionar uma célula de texto;
+ -[x] Clicando em "file": salva o seu progama;
+ -[x] Ícone de lixeira: exclui alguma célula selecionada do seu progama;
+ -[x] Nos três pontos para ter acesso a mais opções na célula, você pode achar a opção "Copy cell", para copiar a célula;
+ -[x] Ao lado de cada célula, há uma opção para compilar ela, assim pode-se executar as células de código;
+ -[x] Clicando na opção "runtime", você pode achar a opção "Run all", para compilar todas as células do progama de uma vez só;
  
  #### Baixando Arquivos do GitHub
  
