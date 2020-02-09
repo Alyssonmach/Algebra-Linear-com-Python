@@ -97,23 +97,23 @@ Caso contrário, erros de compilação surgirão, interrompendo o funcionamento 
  Google Browser.
  
 1. Logo de início, aparecerá uma janela com diversas opções, nela você pode fazer os seguintes passos:
- -[x] Na aba "Examples", temos uma série de progamas .ipynb fornecidos pelo Google para familizarizar o usuário com o aplicativo;
- -[x] Na aba "Recent", é possível ver os progamas .ipynb acessados recentemente;
- -[x] Na aba "Google Drive", você verá todos os seus progamas criados;
+ - [x] Na aba "Examples", temos uma série de progamas .ipynb fornecidos pelo Google para familizarizar o usuário com o aplicativo;
+ - [x] Na aba "Recent", é possível ver os progamas .ipynb acessados recentemente;
+ - [x] Na aba "Google Drive", você verá todos os seus progamas criados;
   > **Todos os progamas criados no Google Colab Notebook são salvos no Google Drive e vinculado a conta do usuário.**
- -[x] Na aba "GitHub", pode-se copiar a URL do repositório que tem uma extensão .ipynb e usá-lo para abrir o progama do GitHub no 
+ - [x] Na aba "GitHub", pode-se copiar a URL do repositório que tem uma extensão .ipynb e usá-lo para abrir o progama do GitHub no 
    Google Colab Notebook de forma direta;
   > **PARA USUÁRIOS DO GOOGLE COLAB NOTEBOOK, ESSA SERÁ A FORMA DE ACESSAR OS PROGAMAS DO NOSSO REPOSITÓRIO**
- -[x] Na aba "Upload" você pode adicionar um progama .ipynb do seu computador diretamente no Google Colab Notebook.
+ - [x] Na aba "Upload" você pode adicionar um progama .ipynb do seu computador diretamente no Google Colab Notebook.
 2. Na opção "New Python3 Notebook" você conseguirá criar um novo notebook. Vamos agora aprender os comandos para prosseguir com essa
 criação.
- -[x] Na opção "+ Code", você pode adicionar uma célula de código;
- -[x] Na opção "+ Text", você pode adicionar uma célula de texto;
- -[x] Clicando em "file": salva o seu progama;
- -[x] Ícone de lixeira: exclui alguma célula selecionada do seu progama;
- -[x] Nos três pontos para ter acesso a mais opções na célula, você pode achar a opção "Copy cell", para copiar a célula;
- -[x] Ao lado de cada célula, há uma opção para compilar ela, assim pode-se executar as células de código;
- -[x] Clicando na opção "runtime", você pode achar a opção "Run all", para compilar todas as células do progama de uma vez só;
+ - [x] Na opção "+ Code", você pode adicionar uma célula de código;
+ - [x] Na opção "+ Text", você pode adicionar uma célula de texto;
+ - [x] Clicando em "file": salva o seu progama;
+ - [x] Ícone de lixeira: exclui alguma célula selecionada do seu progama;
+ - [x] Nos três pontos para ter acesso a mais opções na célula, você pode achar a opção "Copy cell", para copiar a célula;
+ - [x] Ao lado de cada célula, há uma opção para compilar ela, assim pode-se executar as células de código;
+ - [x] Clicando na opção "runtime", você pode achar a opção "Run all", para compilar todas as células do progama de uma vez só;
  
  #### Baixando Arquivos do GitHub
  
