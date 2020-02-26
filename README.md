@@ -5,6 +5,7 @@
 Essas instruções tem a finalidade de mostrar-lhes como baixar e usar os códigos do repositório em suas máquinas, visando compilar e
 editar para diversas finalidades.
 > Os progamas podem ser atualizados com determinada frequência. Informe o seu e-mail abaixo para receber notificações de atualizações.
+  [Informe o seu e-mail](https://forms.gle/FXYxyD9ANb9si8BA8)
 
 #### Pré-requisitos
 É interessante que o usuário tenho instalado todo o ambiente de trabalho Python em sua máquina. Caso não seja viável a instalação, não se preocupe. Há outras formas pela qual é possível acessar os progamas do repositório. Vamos apresentar o Google Colab Notebook mais adiante e, através dele, você aprenderá como é possível usá-lo para baixar o progama e executá-lo através do seu navegador Google Chrome.
