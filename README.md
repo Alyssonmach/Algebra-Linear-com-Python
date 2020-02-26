@@ -4,6 +4,7 @@
 #### Começando
 Essas instruções tem a finalidade de mostrar-lhes como baixar e usar os códigos do repositório em suas máquinas, visando compilar e
 editar para diversas finalidades.
+> Os progamas podem ser atualizados com determinada frequência. Informe o seu e-mail abaixo para receber notificações de atualizações.
 
 #### Pré-requisitos
 É interessante que o usuário tenho instalado todo o ambiente de trabalho Python em sua máquina. Caso não seja viável a instalação, não se preocupe. Há outras formas pela qual é possível acessar os progamas do repositório. Vamos apresentar o Google Colab Notebook mais adiante e, através dele, você aprenderá como é possível usá-lo para baixar o progama e executá-lo através do seu navegador Google Chrome.
@@ -148,7 +149,14 @@ Uma opção terciária para executar os progamas .ipynb é usando o binder, do p
 #### Usando o Azure Notebooks da Microsoft
 
 Outrou recurso interessante a ser mencionado é o Azure Notebooks da Microsoft. Com ele, você pode acessar todos os progamas aqui criados
-e abrí-los pelo própio navegador web, usando um servidor online da própia plataforma.
+e abrí-los pelo própio navegador web, usando um servidor online da própia plataforma. Use o link abaixo para acessá-lo ou vá ao topo da 
+página, lá você encontrará o mesmo link para acessar. Além disso, utilize os seguintes passos para compilar o progama:
+
+1. Ao abrir a página do projeto, esteja logado com a sua conta da Microsoft.
+2. Clique na parte superior do projeto em "Clone", assim você terá salvo todos os projetos na sua conta.
+3. Pronto, você pode usá-los da forma que quiser, alterando valores e testando novas funcionalidades.
+
+- [Azure Notebooks Microsoft](https://notebooks.azure.com/Alyssonmach/projects/algebra-linear-com-python)
 
 #### Caso ainda haja dúvidas
 
