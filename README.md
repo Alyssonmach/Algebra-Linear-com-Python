@@ -145,6 +145,11 @@ Uma opção terciária para executar os progamas .ipynb é usando o binder, do p
 2. Clique na opção "Execute on Binder".
 3. Abrirá no browser um aplicativo Jupyter Notebook.
 
+#### Usando o Azure Notebooks da Microsoft
+
+Outrou recurso interessante a ser mencionado é o Azure Notebooks da Microsoft. Com ele, você pode acessar todos os progamas aqui criados
+e abrí-los pelo própio navegador web, usando um servidor online da própia plataforma.
+
 #### Caso ainda haja dúvidas
 
 |**_Entre em contato com o meu e-mail_**|
