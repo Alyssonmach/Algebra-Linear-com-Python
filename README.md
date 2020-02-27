@@ -61,7 +61,7 @@ interferir nas células de código. Sobre o víes do aluno, é interessante para
 sequencialmente, dado que algumas células desenvolvidas anteriormente ajudam no entendimentos das desenvolvidas posteriormente. As
 células de código, como foi dito acima, obedecem a ideia da progamação sequencial. Desse modo, é fundamental que:
 
- > **TODAS AS CÉLULAS DE CÓDIGO SEJAM EXECUTADAS, DO INÍCIO AO FIM, DADO QUE AS CÉLULAS POSTERIORES SÃO DEPENDENTES DAS CÉLULAS     ANTERIORES**
+ > **TODAS AS CÉLULAS DE CÓDIGO DEVEM SER EXECUTADAS, DO INÍCIO AO FIM, DADO QUE AS CÉLULAS POSTERIORES SÃO DEPENDENTES DAS CÉLULAS     ANTERIORES**
  
 Caso contrário, erros de compilação surgirão, interrompendo o funcionamento do progama.
  
