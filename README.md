@@ -1,6 +1,9 @@
 # Álgebra Linear com Python
 **_Aplicações dos tópicos aprendidos na disciplina Álgebra Linear usando a linguagem de progamação Python._**
 
+#### Relate erros, sugestões ou opiniões sobre o repositório
+- [Clique aqui](https://forms.gle/cVyBnE6Vo1hw9Lhh9)
+
 #### Começando
 Essas instruções tem a finalidade de mostrar-lhes como baixar e usar os códigos do repositório em suas máquinas, visando compilar e
 editar para diversas finalidades.
