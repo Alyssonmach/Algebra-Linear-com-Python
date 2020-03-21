@@ -3,6 +3,7 @@
 
 |[**Site da Disciplina**](http://ecandeia.dee.ufcg.edu.br/algebralinear)|[**Feedback**](https://forms.gle/cVyBnE6Vo1hw9Lhh9)|[**Repositório GitHub**](https://github.com/Alyssonmach/Algebra-Linear-com-Python)|[**Azure Notebooks Microsoft**](https://notebooks.azure.com/Alyssonmach/projects/algebra-linear-com-python)|
 |----------------------|-------------------|--------------------|-------------------|
+|<None>|<None>|<None>|<None>|
 
 #### Progamas
 
