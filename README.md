@@ -194,5 +194,3 @@ página, lá você encontrará o mesmo link para acessar. Além disso, utilize o
 |**_Entre em contato com o meu e-mail_**|
 |---------------------------------------|
 |alyssonmachado388@gmail.com            |
-
-###### **_Dê um grande sorriso. Juntos, valemos a primeira página._**
