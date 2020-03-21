@@ -1,8 +1,8 @@
 # Álgebra Linear com Python
 **_Aplicações dos tópicos aprendidos na disciplina Álgebra Linear usando a linguagem de progamação Python._**
 
-#### Relate erros, sugestões ou opiniões sobre o repositório
-- [Clique aqui](https://forms.gle/cVyBnE6Vo1hw9Lhh9)
+|**[Site da Disciplina](http://ecandeia.dee.ufcg.edu.br/algebralinear)**|**[Feedback](https://forms.gle/cVyBnE6Vo1hw9Lhh9)**|**[Repositório GitHub](https://github.com/Alyssonmach/Algebra-Linear-com-Python)**|**[Azure Notebooks Microsoft](https://notebooks.azure.com/Alyssonmach/projects/algebra-linear-com-python)**|
+|----------------------|-------------------|-----------|-------------------|
 
 #### Começando
 Essas instruções tem a finalidade de mostrar-lhes como baixar e usar os códigos do repositório em suas máquinas, visando compilar e
