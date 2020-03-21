@@ -6,7 +6,7 @@
 
 #### Progamas
 
-|**Lista de Progamas**|
+|**Lista de Programas**|
 |------------------------|
 |[Programa 01 - Aprendendo a usar Python](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog01_AprendendoPython.ipynb)|
 |[Programa 02 - Aprendendo a usar a biblioteca do Python: Numpy](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog02_AprendendoNumpy.ipynb)|
