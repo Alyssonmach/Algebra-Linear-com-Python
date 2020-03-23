@@ -8,8 +8,6 @@
 #### Programas
 
 <HTML>
- 
-<BODY>
  <TABLE WIDTH = "200" HEIGHT = "20%" BORDER = "4" CELLSPACING = "10" CELLPADDING = "7">
   <TR BGCOLOR = #E0F8E0>
    <TD ALIGN = "center" VALIGN = "center" HEIGHT = "40" COLSPAN = "2"><FONT FACE = "Comic Sans MS"><B> Lista de Programas </B></TD>
@@ -46,9 +44,7 @@
   <TR BGCOLOR = #E0EEEE>
    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog21_MinimosQuadraticos.ipynb"> Programa 21 - Problema de Mínimos Quadráticos </a></TD>
    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog22_ProcessamentoDeImagensDigitais.ipynb"> Programa 22 - Processamento de Imagens Digitais </a></TD>
- </TABLE>
-</BODY>
-
+  </TABLE>
 </HTML>
 
 |**Lista de Programas**|
