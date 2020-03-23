@@ -6,17 +6,7 @@
 |<None>|<None>|<None>|<None>|
 
 #### Programas
-<HTML>
- 
-<BODY>
-<TABLE WIDTH = "300" HEIGHT = "25%" BORDER = "4" CELLSPACING = "10" CELLPADDING = "7">
- <TR BGCOLOR = #E0F8E0>
-  <TD ALIGN = "center" VALIGN = "center" HEIGHT = "40" COLSPAN = "2"><FONT FACE = "Comic Sans MS><B> Lista de Programas </B></TD>
-  <TD> TESTE 02 </TD>
-</TABLE>
-</BODY>
 
-</HTML>
 |**Lista de Programas**|
 |------------------------|
 |[Programa 01 - Aprendendo a usar Python](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog01_AprendendoPython.ipynb)|
