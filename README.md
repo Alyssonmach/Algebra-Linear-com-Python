@@ -7,51 +7,6 @@
 
 #### Programas
 
-<HTML>
- 
- <BODY>
-  <TABLE WIDTH = "1000" HEIGHT = "20%" BORDER = "4" CELLSPACING = "10" CELLPADDING = "7">
-   <TR BGCOLOR = #E0F8E0>
-    <TD ALIGN = "center" VALIGN = "center" HEIGHT = "40" COLSPAN = "2"><FONT FACE = "Comic Sans MS"><B> Lista de Programas </B></TD>
-   <TR BGCOLOR = #E0EEEE>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-    Python/blob/master/prog01_AprendendoPython.ipynb"> Programa 01 - Aprendendo a usar Python </a></TD>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog02_AprendendoNumpy.ipynb"> Programa 02 - Aprendendo a usar a biblioteca do Python: Numpy </a></TD>
-   <TR>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog03_AprendendoMatplotlib.ipynb"> Programa 03 - Aprendendo a usar a biblioteca do Python: Matplotlib </a></TD>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog04_OperacoesMatriciais.ipynb"> Programa 04 - Operações Matriciais </a></TD>
-   <TR BGCOLOR = #E0EEEE>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog05_AplicacaoDeMatrizes.ipynb"> Programa 05 - Aplicações de Matrizes </a></TD>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog06_MatrizTransposta.ipynb"> Programa 06 - Matriz Transposta </a></TD>
-   <TR>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog07_MatrizInversa.ipynb"> Programa 07 - Matriz Inversa </a></TD>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog08_Determinante.ipynb"> Programa 08 - Determinante </a></TD>
-   <TR BGCOLOR = #E0EEEE>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog09_SistemasLineares.ipynb"> Programa 09 - Sistemas Lineares </a></TD>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog10_TransformacoesLineares.ipynb"> Programa 10 - Transformações Lineares </a></TD>
-   <TR>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog11_EstudoSistemasDeEquacoes.ipynb"> Programa 11 - Estudo Sobre Sistemas Lineares </a></TD>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog12_AutovaloresAutovetores.ipynb"> Programa 12 - Autovalores e Autovetores </a></TD>
-   <TR BGCOLOR = #E0EEEE>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog13_AutovaloresEmEcologia.ipynb"> Programa 13 - Autovalores em Ecologia </a></TD>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog14_TransCircElip.ipynb"> Programa 14 - Transformações Lineares: Transformando um Círculo em uma Elipse </a></TD>
-   <TR>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog15_AGeometriaDasTransformacoesLineares.ipynb"> Programa 15 - A Geometria das Transformações Lineares </a></TD>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog16_ConstrucaoDeCurvasPorPontosEspecificados.ipynb"> Programa 16 - Construção de Curvas por Pontos Especificados </a></TD>
-   <TR BGCOLOR = #E0EEEE>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog17_Criptografia.ipynb"> Programa 17 - Criptografia </a></TD>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog18_TeoriaDosGrafos.ipynb"> Programa 18 - Teoria dos Grafos </a></TD>
-   <TR>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog19_CadeiasDeMarkov.ipynb"> Programa 19 - Cadeias de Markov </a></TD>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog20_GooglePageRank.ipynb"> Programa 20 - Google Page Rank: O Algoritmo que Revolucionou o Mundo </a></TD>
-   <TR BGCOLOR = #E0EEEE>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog21_MinimosQuadraticos.ipynb"> Programa 21 - Problema de Mínimos Quadráticos </a></TD>
-    <TD><FONT FACE = "Calibri"><a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog22_ProcessamentoDeImagensDigitais.ipynb"> Programa 22 - Processamento de Imagens Digitais </a></TD>
-  </TABLE>
- </BODY>
-
-</HTML>
-
-
 |**Lista de Programas**|
 |------------------------|
 |[Programa 01 - Aprendendo a usar Python](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog01_AprendendoPython.ipynb)|
