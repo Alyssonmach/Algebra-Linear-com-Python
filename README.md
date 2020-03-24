@@ -1,37 +1,6 @@
 # Álgebra Linear com Python
 **_Aplicações dos tópicos aprendidos na disciplina Álgebra Linear usando a linguagem de progamação Python._**
 
-|[**Site da Disciplina**](http://ecandeia.dee.ufcg.edu.br/algebralinear)|[**Feedback**](https://forms.gle/cVyBnE6Vo1hw9Lhh9)|[**Repositório GitHub**](https://github.com/Alyssonmach/Algebra-Linear-com-Python)|[**Azure Notebooks Microsoft**](https://notebooks.azure.com/Alyssonmach/projects/algebra-linear-com-python)|
-|----------------------|-------------------|--------------------|-------------------|
-|<None>|<None>|<None>|<None>|
-
-#### Programas
-
-|**Lista de Programas**|
-|------------------------|
-|[Programa 01 - Aprendendo a usar Python](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog01_AprendendoPython.ipynb)|
-|[Programa 02 - Aprendendo a usar a biblioteca do Python: Numpy](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog02_AprendendoNumpy.ipynb)|
-|[Programa 03 - Aprendendo a usar a biblioteca do Python: Matplotlib](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog03_AprendendoMatplotlib.ipynb)|
-|[Programa 04 - Operações Matriciais](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog04_OperacoesMatriciais.ipynb)|
-|[Programa 05 - Aplicações de Matrizes](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog05_AplicacaoDeMatrizes.ipynb)|
-|[Programa 06 - Matriz Transposta](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog06_MatrizTransposta.ipynb)|
-|[Programa 07 - Matriz Inversa](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog07_MatrizInversa.ipynb)|
-|[Programa 08 - Determinante](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog08_Determinante.ipynb)|
-|[Programa 09 - Sistemas Lineares](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog09_SistemasLineares.ipynb)|
-|[Programa 10 - Transformações Lineares](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog10_TransformacoesLineares.ipynb)|
-|[Programa 11 - Estudo Sobre Sistemas Lineares](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog11_EstudoSistemasDeEquacoes.ipynb)|
-|[Programa 12 - Autovalores e Autovetores](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog12_AutovaloresAutovetores.ipynb)|
-|[Programa 13 - Autovalores em Ecologia](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog13_AutovaloresEmEcologia.ipynb)|
-|[Programa 14 - Transformações Lineares: Transformando um Círculo em uma Elipse](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog14_TransCircElip.ipynb)|
-|[Programa 15 - A Geometria das Transformações Lineares](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog15_AGeometriaDasTransformacoesLineares.ipynb)|
-|[Programa 16 - Construção de Curvas por Pontos Especificados](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog16_ConstrucaoDeCurvasPorPontosEspecificados.ipynb)|
-|[Programa 17 - Criptografia](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog17_Criptografia.ipynb)|
-|[Programa 18 - Teoria dos Grafos](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog18_TeoriaDosGrafos.ipynb)|
-|[Programa 19 - Cadeias de Markov](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog19_CadeiasDeMarkov.ipynb)|
-|[Programa 20 - Google Page Rank: O Algoritmo que Revolucionou o Mundo](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog20_GooglePageRank.ipynb)|
-|[Programa 21 - Problema de Mínimos Quadráticos](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog21_MinimosQuadraticos.ipynb)|
-|[Programa 22 - Processamento de Imagens Digitais](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/prog22_ProcessamentoDeImagensDigitais.ipynb)|
-
 #### Começando
 Essas instruções tem a finalidade de mostrar-lhes como baixar e usar os códigos do repositório em suas máquinas, visando compilar e
 editar para diversas finalidades.
