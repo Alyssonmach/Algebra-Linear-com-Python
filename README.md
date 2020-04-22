@@ -163,3 +163,5 @@ página, lá você encontrará o mesmo link para acessar. Além disso, utilize o
 |**_Entre em contato com o meu e-mail_**|
 |---------------------------------------|
 |alyssonmachado388@gmail.com            |
+
+- <a href = "https://github.com/Alyssonmach/Algebra-Linear-com-Python/archive/master.zip" target = "_blank">Clique aqui para baixar todos os programas com extensão .ipynb</a>.
