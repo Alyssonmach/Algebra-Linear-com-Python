@@ -1,4 +1,4 @@
-# Álgebra Linear com Python 123
+# Álgebra Linear com Python 
 **_Aplicações dos tópicos aprendidos na disciplina Álgebra Linear usando a linguagem de progamação Python._**
 
 - <a href = "https://algebralinearufcg.github.io/" target = "_blank">Visite o Site</a>.
