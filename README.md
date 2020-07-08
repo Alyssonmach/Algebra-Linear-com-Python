@@ -3,6 +3,8 @@
 
 - <a href = "https://algebralinearufcg.github.io/" target = "_blank">Visite o Site</a>.
 
+![apresentacao-algebra-linear-python](https://user-images.githubusercontent.com/58775072/86921345-5eedeb00-c101-11ea-863c-b8bd4bb2855a.png)
+
 #### Começando
 Essas instruções tem a finalidade de mostrar-lhes como baixar e usar os códigos do repositório em suas máquinas, visando compilar e
 editar para diversas finalidades.
