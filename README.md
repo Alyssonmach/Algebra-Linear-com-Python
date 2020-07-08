@@ -34,7 +34,7 @@ para importar todas as bibliotecas usadas nos progamas do repositório:
 Após importar todas as bibliotecas acima você terá todos os requisitos necessários para compilar os progamas apresentados no repositório.
 Verifique no progama abaixo se todos as bibliotecas foram devidamente importadas:
  
- -[Verifique a Instalação](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/Conte%C3%BAdo%20W%20-%20Verifique%20a%20Instala%C3%A7%C3%A3o/VerifiqueInstalacao.ipynb)
+- [Verifique a Instalação](https://github.com/Alyssonmach/Algebra-Linear-com-Python/blob/master/Conte%C3%BAdo%20W%20-%20Verifique%20a%20Instala%C3%A7%C3%A3o/VerifiqueInstalacao.ipynb)
 
 #### Usando o Google Colab Notebook
 
