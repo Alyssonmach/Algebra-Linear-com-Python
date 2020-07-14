@@ -1,4 +1,4 @@
-# execute essa linha de código para importar as funções do plot_helper
+# execute essa linha de código para importar as funções do 'plot_helper'
 
 import numpy
 from numpy.linalg import inv, eig
@@ -213,8 +213,8 @@ def plot_linear_transformation(matrix, *vectors, unit_vector=True, unit_circle=F
     """
     figsize = numpy.array([4,2]) * fig_scale
     figure, (axis1, axis2) = pyplot.subplots(1, 2, figsize=figsize)
-    plot_transformation_helper(axis1, numpy.identity(2), *vectors, unit_vector=unit_vector, unit_circle=unit_circle, title='Before transformation')
-    plot_transformation_helper(axis2, matrix, *vectors, unit_vector=unit_vector, unit_circle=unit_circle, title='After transformation')
+    plot_transformation_helper(axis1, numpy.identity(2), *vectors, unit_vector=unit_vector, unit_circle=unit_circle, title='Antes da Transformação')
+    plot_transformation_helper(axis2, matrix, *vectors, unit_vector=unit_vector, unit_circle=unit_circle, title='Depois da Transformação')
 
 @set_rc
 def plot_linear_transformations(*matrices, unit_vector=True, unit_circle=False):
@@ -520,15 +520,3 @@ if __name__ == "__main__":
 
 # funções definidas por L Barba e T Wang para uma apresentação no evento SciPy 2019 
 # aplicação das funções para a aula do professor Edmar Candeia Gurjão feitas por Alysson Machado
-
-import numpy # importando a biblioteca de funções do Python: numpy
-# indica que cada chamada pela função inline deve ser substituido pelo corpo da função
-%matplotlib notebook
-%matplotlib inline 
-from matplotlib import pyplot # importando a biblioteca de funções do Python: matplotlib
-
-import sys # importa as definições feitas na segunda célula
-sys.path.append('../scripts/')
-
-# Ao importar, teremos acesso as funções: 
-# plot_vector, plot_linear_transformation, plot_linear_transformations
