@@ -338,8 +338,8 @@ def plot_3d_linear_transformation(matrix, grid=True, unit_sphere=False):
     figure = pyplot.figure(figsize=figsize)
     axis1 = figure.add_subplot(1, 2, 1, projection='3d')
     axis2 = figure.add_subplot(1, 2, 2, projection='3d')
-    plot_3d_transformation_helper(axis1, numpy.identity(3), grid=grid, unit_sphere=unit_sphere, title='before transformation')
-    plot_3d_transformation_helper(axis2, matrix, grid=grid, unit_sphere=unit_sphere, title='after transformation')
+    plot_3d_transformation_helper(axis1, numpy.identity(3), grid=grid, unit_sphere=unit_sphere, title='Antes da Transformação')
+    plot_3d_transformation_helper(axis2, matrix, grid=grid, unit_sphere=unit_sphere, title='Depois da Transformação')
 
 @set_rc
 def plot_3d_linear_transformations(*matrices, grid=False, unit_sphere=False):
