@@ -1,5 +1,5 @@
 # Álgebra Linear com Python 
-#### Aplicações dos tópicos aprendidos na disciplina Álgebra Linear usando a linguagem de progamação Python.
+#### Aplicações dos tópicos aprendidos na disciplina Álgebra Linear usando a linguagem de programação Python.
 
 - [Visite o Site](https://algebralinearufcg.github.io)
 
@@ -49,21 +49,21 @@ utilizar o Google Colab Notebook.
 ### Compilando
 
 Vamos agora aprender a compilar todos os progamas do repositório dado que todos os passos acima estão satisfeitos. O arquivo .ipynb 
-utilizando é um forte instrumento para se utilizar quando deseja-se estudar tópicos de progamação voltados para algum assunto 
+utilizando é um forte instrumento para se utilizar quando deseja-se estudar tópicos de programação voltados para algum assunto 
 didático. No nosso repositório, usamos tal instrumento para trazer aplicações da disciplina de Álgebra Linear computacionalmente.
-Muito além de ser algo complementar no aprendizado, é também um ótimo começo para quem deseja aprender a linguagem de progamação 
+Muito além de ser algo complementar no aprendizado, é também um ótimo começo para quem deseja aprender a linguagem de programação 
 Python, dado que é uma linguagem com amplas funcionalidades para diversas áreas de trabalho.
 
 #### Como usar os notebooks
 
 Os arquivos com extensão .ipynb são chamados de notebooks. Um notebook é composto por células, essas que obedecem as normas vigentes de
-boa prática de progamação: a ideia da progamação sequencial. Uma célula pode ser de dois tipos: célula de código (Code) ou célula de 
-texto (Markdown). As células de texto são independentes entre sí em um viés computacional, pois a execução da mesma não vai 
-interferir nas células de código. Sobre o víes do aluno, é interessante para o seu entendimento que a leitura das mesmas seja feito
+boa prática de programação: a ideia da programação sequencial. Uma célula pode ser de dois tipos: célula de código (Code) ou célula de 
+texto (Markdown). As células de texto são independentes entre si em um viés computacional, pois a execução da mesma não vai 
+interferir nas células de código. Sobre o viés do aluno, é interessante para o seu entendimento que a leitura das mesmas seja feito
 sequencialmente, dado que algumas células desenvolvidas anteriormente ajudam no entendimentos das desenvolvidas posteriormente. As
-células de código, como foi dito acima, obedecem a ideia da progamação sequencial. Desse modo, é fundamental que:
+células de código, como foi dito acima, obedecem a ideia da programação sequencial. Desse modo, é fundamental que:
 
- > **TODAS AS CÉLULAS DE CÓDIGO DEVEM SER EXECUTADAS, DO INÍCIO AO FIM, DADO QUE AS CÉLULAS POSTERIORES SÃO DEPENDENTES DAS CÉLULAS     ANTERIORES**
+ > **TODAS AS CÉLULAS DE CÓDIGO DEVEM SER EXECUTADAS, DO INÍCIO AO FIM, DADO QUE AS CÉLULAS POSTERIORES SÃO DEPENDENTES DAS CÉLULAS ANTERIORES**
  
 Caso contrário, erros de compilação surgirão, interrompendo o funcionamento do progama.
  
@@ -74,7 +74,7 @@ Caso contrário, erros de compilação surgirão, interrompendo o funcionamento 
  
  1. Abra o prompt de comando.
  2. Digite **_jupyter notebook_**, caso tenha optado pelo método de instalação **_pip install jupyter_** ou digite **_jupyter lab_**, 
- caso tenha optado pela opção de intalação **_pip install jupyter lab_**.
+ caso tenha optado pela opção de instalação **_pip install jupyter lab_**.
  
  > **Jupyter Notebook tem o mesmo funcionamento do Jupyter Lab, a única diferença é que o segundo é uma versão do aplicativo mais recente que a primeira.**
  
@@ -86,7 +86,7 @@ Caso contrário, erros de compilação surgirão, interrompendo o funcionamento 
  4. Caso você queira criar um novo notebook, clique na opção "New Launcher". Dentro do progama:
   - [x] Ícone do disquete("Save the notebook contents and create checkpoint"): salva o seu progama;
   - [x] Ícone de +("Insert a cell below"): Insere uma célula no seu notebook;
-  - [x] Ícone de tessoura("Cut the selected cells"): corta alguma célula selecionada do seu progama;
+  - [x] Ícone de tesoura("Cut the selected cells"): corta alguma célula selecionada do seu progama;
   - [x] Ícone de copiar("Copy the selected cells"): copia uma célula do seu progama;
   - [x] Ícone da prancheta("Paste cells from the clipboard"): cola a célula copiada;
   - [x] Ícone de dar play("Run the selected cells and advance"): compila a célula selecionada;
@@ -101,13 +101,13 @@ Caso contrário, erros de compilação surgirão, interrompendo o funcionamento 
  Google Browser.
  
 1. Logo no início, aparecerá uma janela com diversas opções, nela você pode fazer os seguintes passos:
- - [x] Na aba "Examples", temos uma série de progamas .ipynb fornecidos pelo Google para familizarizar o usuário com o aplicativo;
+ - [x] Na aba "Examples", temos uma série de progamas .ipynb fornecidos pelo Google para familiarizar o usuário com o aplicativo;
  - [x] Na aba "Recent", é possível ver os progamas .ipynb acessados recentemente;
  - [x] Na aba "Google Drive", você verá todos os seus progamas criados;
   > **Todos os progamas criados no Google Colab Notebook são salvos no Google Drive e vinculado a conta do usuário.**
  - [x] Na aba "GitHub", pode-se copiar a URL do repositório que tem uma extensão .ipynb e usá-lo para abrir o progama do GitHub no 
    Google Colab Notebook de forma direta;
-  > **PARA USUÁRIOS DO GOOGLE COLAB NOTEBOOK, ESSA SERÁ A FORMA DE ACESSAR OS PROGAMAS DO NOSSO REPOSITÓRIO**
+  > **PARA USUÁRIOS DO GOOGLE COLAB NOTEBOOK, ESSA SERÁ A FORMA DE ACESSAR OS PROGRAMAS DO NOSSO REPOSITÓRIO**
  - [x] Na aba "Upload" você pode adicionar um progama .ipynb do seu computador diretamente no Google Colab Notebook.
 2. Na opção "New Python3 Notebook" você conseguirá criar um novo notebook. Vamos agora aprender os comandos para prosseguir com essa
 criação.
@@ -121,7 +121,7 @@ criação.
  
  ### Baixando Arquivos do GitHub
  
- #### Baixar pelo própio GitHub
+ #### Baixar pelo próprio GitHub
  
 1. Primeiramente, clique no arquivo que você deseja baixar no GitHub.
 2. Após clicar no arquivo desejado com extensão .ipynb, você conseguirá ver o arquivo, mas não poderá interagir com ele.
@@ -133,7 +133,7 @@ criação.
 
 #### Usando o nbviewer
 
-O própio Jupyter Project fornece uma ferramenta para que o usuário consiga baixar e visualizar arquivos .ipynb a partir do GitHub.
+O próprio Jupyter Project fornece uma ferramenta para que o usuário consiga baixar e visualizar arquivos .ipynb a partir do GitHub.
 Segue o link do site para acessar o nbviewer.
 
 - [nbviewer](https://nbviewer.jupyter.org/)
@@ -143,7 +143,7 @@ Segue o link do site para acessar o nbviewer.
 
 ### Usando o binder para compilar os progamas
 
-Uma opção terciária para executar os progamas .ipynb é usando o binder, do própio nbviewer. Veja os passos abaixo:
+Uma opção terciária para executar os progamas .ipynb é usando o binder, do próprio nbviewer. Veja os passos abaixo:
 
 1. Insira o link do progama disponível no repositório e clique em pesquisar.
 2. Clique na opção "Execute on Binder".
@@ -151,8 +151,8 @@ Uma opção terciária para executar os progamas .ipynb é usando o binder, do p
 
 ### Usando o Azure Notebooks da Microsoft
 
-Outrou recurso interessante a ser mencionado é o Azure Notebooks da Microsoft. Com ele, você pode acessar todos os progamas aqui criados
-e abrí-los pelo própio navegador web, usando um servidor online da própia plataforma. Use o link abaixo para acessá-lo ou vá ao topo da 
+Outro recurso interessante a ser mencionado é o Azure Notebooks da Microsoft. Com ele, você pode acessar todos os progamas aqui criados
+e abri-los pelo próprio navegador web, usando um servidor online da própria plataforma. Use o link abaixo para acessá-lo ou vá ao topo da 
 página, lá você encontrará o mesmo link para acessar. Além disso, utilize os seguintes passos para compilar o progama:
 
 1. Ao abrir a página do projeto, esteja logado com a sua conta da Microsoft.
@@ -172,4 +172,3 @@ página, lá você encontrará o mesmo link para acessar. Além disso, utilize o
 ### Caso ainda haja dúvidas
 
 - [Me envie um e-mail](mailto:alysson.barbosa@ee.ufcg.edu.br)
-
