@@ -5,6 +5,34 @@
 
 ![apresentacao-algebra-linear-python](https://user-images.githubusercontent.com/58775072/86921345-5eedeb00-c101-11ea-863c-b8bd4bb2855a.png)
 
+### Conteúdos do Repositório
+
+|**Conteúdo**|**Tópicos**|
+|:-----------|:----------|
+|**Conteúdo A**|[Aprendendo Python](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20A%20-%20Aprendendo%20Python)|
+|**Conteúdo B**|[Aprendendo Numpy](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20B%20-%20Aprendendo%20Numpy)|
+|**Conteúdo C**|[Aprendendo Matplotlib](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20C%20-%20Aprendendo%20Matplotlib)|
+|**Conteúdo D**|[Operações Matriciais](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20D%20-%20Opera%C3%A7%C3%B5es%20Matriciais)|
+|**Conteúdo E**|[Aplicação de Matrizes](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20E%20-%20Aplica%C3%A7%C3%A3o%20de%20Matrizes)|
+|**Conteúdo F**|[Matriz Transposta](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20F%20-%20Matriz%20Transposta)|
+|**Conteúdo G**|[Matriz Inversa](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20G%20-%20Matriz%20Inversa)|
+|**Conteúdo H**|[Determinante](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20H%20-%20Determinante)|
+|**Conteúdo I**|[Sistemas Lineares](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20I%20-%20Sistemas%20Lineares)|
+|**Conteúdo J**|[Transformações Lineares]()|
+|**Conteúdo K**|[Estudo de Sistemas de Equações](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20K%20-%20Estudo%20de%20Sistemas%20de%20Equa%C3%A7%C3%B5es)|
+|**Conteúdo L**|[Autovalores e Autovetores](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20L%20-%20Autovalores%20e%20Autovetores)|
+|**Conteúdo M**|[Autovalores em Ecologia](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20M%20-%20Autovalores%20em%20Ecologia)|
+|**Conteúdo N**|[Transformando um Círculo em uma Elípse](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20N%20-%20Transformando%20um%20C%C3%ADrculo%20em%20uma%20El%C3%ADpse)|
+|**Conteúdo O**|[A Geometria das Transformações Lineares](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20O%20-%20A%20Geometria%20das%20Transforma%C3%A7%C3%B5es%20Lineares)|
+|**Conteúdo P**|[Contrução de Curvas por Pontos Especificados](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20P%20-%20Constru%C3%A7%C3%A3o%20de%20Curvas%20por%20Pontos%20Especificados)|
+|**Conteúdo Q**|[Criptografia](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20Q%20-%20Criptografia)|
+|**Conteúdo R**|[Teoria dos Grafos](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20R%20-%20Teoria%20dos%20Grafos)|
+|**Conteúdo S**|[Cadeias de Markov](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20S%20-%20Cadeias%20de%20Markov)|
+|**Conteúdo T**|[Google Page Rank](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20T%20-%20Google%20Page%20Rank)|
+|**Conteúdo U**|[Problemas de Mínimos Quadráticos](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20U%20-%20Problemas%20de%20M%C3%ADnimos%20Quadr%C3%A1ticos)|
+|**Conteúdo V**|[Processamento de Imagens Digitais](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20V%20-%20Processamento%20de%20Imagens%20Digitais)|
+|**Conteúdo W**|[Verifique a Instalação](https://github.com/Alyssonmach/Algebra-Linear-com-Python/tree/master/Conte%C3%BAdo%20W%20-%20Verifique%20a%20Instala%C3%A7%C3%A3o)|
+
 ### Começando
 Essas instruções tem a finalidade de mostrar-lhes como baixar e usar os códigos do repositório em suas máquinas, visando compilar e
 editar para diversas finalidades.
