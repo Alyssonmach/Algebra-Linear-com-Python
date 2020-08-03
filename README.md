@@ -177,19 +177,6 @@ Uma opção terciária para executar os progamas .ipynb é usando o binder, do p
 2. Clique na opção "Execute on Binder".
 3. Abrirá no browser um aplicativo Jupyter Notebook.
 
-### Usando o Azure Notebooks da Microsoft
-
-Outro recurso interessante a ser mencionado é o Azure Notebooks da Microsoft. Com ele, você pode acessar todos os progamas aqui criados
-e abri-los pelo próprio navegador web, usando um servidor online da própria plataforma. Use o link abaixo para acessá-lo ou vá ao topo da 
-página, lá você encontrará o mesmo link para acessar. Além disso, utilize os seguintes passos para compilar o progama:
-
-1. Ao abrir a página do projeto, esteja logado com a sua conta da Microsoft.
-2. Clique na parte superior do projeto em "Clone", assim você terá salvo todos os projetos na sua conta.
-3. Caso você deseje baixar em seu computador o progama, há uma opção para fazer o download dos programas .ipynb
-3. Pronto, você pode usá-los da forma que quiser, alterando valores e testando novas funcionalidades.
-
-- [Azure Notebooks Microsoft](https://notebooks.azure.com/Alyssonmach/projects/algebra-linear-com-python)
-
 ### Minicurso de Git GitHub
 
 - [Acesse o site](https://algebralinearufcg.github.io/listadegithub.html)
