@@ -1,0 +1,8 @@
+imageio
+ipywidgets
+jupyterlab
+matplotlib
+numpy
+scikit-learn
+scipy
+sympy
