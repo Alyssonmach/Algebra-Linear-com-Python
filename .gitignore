@@ -4,8 +4,6 @@ __pycache__/
 .venv/
 venv/
 
-# Jupyter
-.ipynb_checkpoints/
 
-# Sistema operacional
+.ipynb_checkpoints/
 .DS_Store
